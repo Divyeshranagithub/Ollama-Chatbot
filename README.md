@@ -32,7 +32,7 @@ Here's a quick example of how to use Ollama Chatbot:
 4. Ollama Chatbot will process your input and provide a response.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 # Acknowledgments
 - The Gemma:2b model by OpenAI for powering the conversational capabilities of Ollama Chatbot.
