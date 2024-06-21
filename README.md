@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for providing an intuitive user interface framework.
 
 # Contact
-For questions or feedback regarding Ollama Chatbot, please contact [divyesh.rana.498@gmail.com]
+For questions or feedback regarding Ollama Chatbot, please contact [divyesh.rana.498@gmail.com](divyesh.rana.498@gmail.com).
