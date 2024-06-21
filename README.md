@@ -9,16 +9,16 @@ Ollama Chatbot is an AI-powered conversational agent designed using the Gemma:2b
 # Installation
 1 Clone the Repository:
   ```
-      git clone https://github.com/Divyeshranagithub/Ollama-Chatbot.git
-      cd ollama-chatbot
+  git clone https://github.com/Divyeshranagithub/Ollama-Chatbot.git
+  cd ollama-chatbot
   ```
 2 Build the Docker Image:
   ```
-     docker build -t ollama-chatbot .
+  docker build -t ollama-chatbot .
   ```
 3 Run the Docker Container:
   ```
-    docker-compose up
+  docker-compose up
   ```
 
 # Usage
